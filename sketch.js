@@ -94,7 +94,7 @@ function mouseDragged(){
  }
 //create mouseReleased function here
 function mouseReleased(){
-  launcherObject.fly()
+  launcher.fly()
 }
 //create keyPressed function here
 function keyPressed(){
